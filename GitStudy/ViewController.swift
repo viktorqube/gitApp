@@ -28,12 +28,12 @@ class ViewController: UIViewController {
      ..
     
      
-     //Code2
-     code2
-     code2
-     code2
-     code2
-     code2
+     //Code2 new
+     code2 new
+     code2 new
+     code2 new
+     code2 new
+     code2 new
      
      
      

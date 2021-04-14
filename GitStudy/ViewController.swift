@@ -20,7 +20,7 @@ class ViewController: UIViewController {
     //Code1
     /*
      ...
-     ... 
+     ...
      ...
      ...
      ..
@@ -28,7 +28,12 @@ class ViewController: UIViewController {
      ..
     
      
-     
+     //Code2
+     code2
+     code2
+     code2
+     code2
+     code2
      
      
      
